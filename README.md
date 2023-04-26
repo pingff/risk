@@ -10,7 +10,7 @@ You will implement several graph algorithms to develop a tool for the game of Ri
 1. understand how graph traversals relate to real-world AI problems
 1. use someone else's complex code
 
-### Background
+## Background
 
 Risk is the classic board game of world domination.
 The website <https://warzone.com> has a free online game.

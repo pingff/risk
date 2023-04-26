@@ -303,7 +303,7 @@ class Board(object):
         Create a generator of all territories that belong to a given continent.
             
         Args:
-            continent_id (int): ID of the continent.
+            continnt_id (int): ID of the continent.
 
         Returns:
             generator: Generator of Territories.
